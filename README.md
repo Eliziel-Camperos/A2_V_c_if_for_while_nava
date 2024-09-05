@@ -1,4 +1,4 @@
-# A2_V_c_if_for_while_nava
+# A2_V_c_if_for_while_Camperos
 Manejo de tipo de variables, cadenas, if, for, while
 ##Manejo de variables
 -visual estudio code
